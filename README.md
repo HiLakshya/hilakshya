@@ -14,10 +14,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/lakshhhhhya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lakshhhhhya" height="30" width="40" /></a>
+<a href="https://twitter.com/lakshhhhhhya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lakshhhhhya" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lakshyakandpal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakshyakandpal" height="30" width="40" /></a>
 <a href="https://fb.com/lakshya.kandpal.50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lakshya.kandpal.50" height="30" width="40" /></a>
-<a href="https://instagram.com/lakshhhhhya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lakshhhhhya" height="30" width="40" /></a>
+<a href="https://instagram.com/real.lakshhhhhya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lakshhhhhya" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
