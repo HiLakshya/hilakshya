@@ -20,5 +20,11 @@ I am a passionate and forward-thinking individual with a strong foundation in pr
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HiLakshya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=lakshhhhhhya)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- Insert your latest blog post titles and links here -->
+- [Analysis of Algorithms](https://bitwisely.hashnode.dev/analysis-of-algorithms)
+- [Order of Growth : Understanding the Complexity of Algorithms](https://bitwisely.hashnode.dev/order-of-growth)
+- [Advertisements: Not Working Anymore!](https://medium.com/@LakshyaKandpal/advertisements-not-working-anymore-58bb7e3c7628)
+<!-- BLOG-POST-LIST:END -->
