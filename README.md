@@ -3,7 +3,13 @@
 <h3 align="center">Coding and Tech Enthusiast</h3>
 
 # 💫 About Me:
-I am a passionate and forward-thinking individual with a strong foundation in programming and a deep interest in exploring the potential of blockchain technology to create positive change. I am enthusiastic about contributing to open-source projects, collaborating with like-minded individuals, and keeping an open mind to new perspectives.<br><br><br><br>
+I am a passionate and forward-thinking individual with a strong foundation in programming and a deep interest in exploring the potential of blockchain technology to create positive change. I am enthusiastic about contributing to open-source projects, collaborating with like-minded individuals, and keeping an open mind to new perspectives.
+<div align="center">
+<br>
+<img alt="snake eating my contribution" src="https://github.com/hilakshya/hilakshya/blob/output/github-contribution-grid-snake.svg">
+<br>
+</div>
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/maiLAKSHYAhoon#1982) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/lakshya.kandpal.50) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lakshhhhhya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lakshyakandpal) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@LakshyaKandpal) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21359166) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/lakshhhhhhya) 
